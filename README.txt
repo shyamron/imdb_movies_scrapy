@@ -1,7 +1,8 @@
 Making own IMDB movies dataset using scrapy
 
 This project makes use of scrapy, a free and open source web crawling framework to scrape "action" movies from
-imdb.com website. Link- https://www.imdb.com/search/title/?genres=action&languages=en&sort=user_rating,desc&title_type=feature
+imdb.com website.
+Link- https://www.imdb.com/search/title/?genres=action&languages=en&sort=user_rating,desc&title_type=feature
  Following data are extracted:
 
 1. Title
