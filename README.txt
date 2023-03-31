@@ -14,7 +14,7 @@ Link- https://www.imdb.com/search/title/?genres=action&languages=en&sort=user_ra
 7. Number of Reviews
 
 
-imdbscrapy\imdbscrapy\spiders\imdb_movies.py is the main scraper and movies.csv is the extracted dataset.
+imdbscrapy\spiders\imdb_movies.py is the main scraper and movies.csv is the extracted dataset.
 The dataset contains total of 20,464 action movies.
 
 
